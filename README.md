@@ -1,7 +1,19 @@
 # Git Practice Project
 
-## Name
+## Student Name
 Veronica
 
-## Description
-This project demonstrates Git and GitHub operations including commits, branches, merging, and pushing code.
+## Project Description
+This project demonstrates Git and GitHub operations including:
+
+- Repository creation
+- Git commits
+- Branching
+- Merging
+- Python programming
+
+## Features
+
+- Basic calculator functions
+- Git workflow practice
+- Error handling
