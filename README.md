@@ -1,19 +1,26 @@
-# Git Practice Project
+# Project Description
 
-## Student Name
-Veronica
+This project is created for practicing Git and GitHub.
 
-## Project Description
-This project demonstrates Git and GitHub operations including:
+## Technologies Used
 
-- Repository creation
-- Git commits
-- Branching
-- Merging
-- Python programming
+- Python
+- Git
+- GitHub
 
 ## Features
 
-- Basic calculator functions
-- Git workflow practice
+- Repository creation
+- Local Git management
+- Multiple commits
+- Branching
+- Merging
+- Calculator functions
 - Error handling
+
+This project demonstrates the complete Git workflow from creating a repository to pushing code online.
+
+
+## Completion
+
+This project was completed using Git branching, merging, and GitHub collaboration workflow.
